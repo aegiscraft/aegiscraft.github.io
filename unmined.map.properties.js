@@ -8,7 +8,7 @@ var UnminedMapProperties = {
     minRegionZ: -24,
     maxRegionX: 18,
     maxRegionZ: 8,
-    worldName: "Lordania: The New World",
+    worldName: "AEGISCraft v2.1",
     background: "",
     markers: new Array()
 }
